@@ -1,0 +1,13 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/
+
+AdaptedGameCollection.UI/node_modules/
+AdaptedGameCollection.UI/.idea/
+AdaptedGameCollection.UI/dist/
+AdaptedGameCollection.UI/build/
+
+AdaptedGameCollection.sln.DotSettings
